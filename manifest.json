@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-ip-rate-limit",
+  "versions": [
+    {
+      "commit": "8d338b0898d7e7e816f90723e99e219993c307c5",
+      "parsed_at": "2026-10-12T19:29:03.271446+00:00",
+      "tag": "0.1a0",
+      "filetree": "filetree/8d338b0898d7e7e816f90723e99e219993c307c5.nq.gz",
+      "blobs": [
+        "blob/2389cb66428a39c9c0bf14033ce7cba25a5e998e.nq.gz",
+        "blob/eb22e74eaaaf0edc4aa2c0f8900a55750d1660f9.nq.gz",
+        "blob/2cb3830868588c1f13976492eb6bd52cd17bbbe4.nq.gz",
+        "blob/5c9664cc4c7beafe76feba5db06b5ed6b88a78d6.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/d49d309499efb2c0c1d38efdd53056249a7d74d8.nq.gz",
+        "blob/3eb871944ba060e652582342cecb018b41f78bda.nq.gz",
+        "blob/e7931a368881c7aed1880a2eb4a186215198573b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
