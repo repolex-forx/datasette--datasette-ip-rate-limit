@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-ip-rate-limit/commit/8d338b0898d7e7e816f90723e99e219993c307c5",
       "git:hexsha": "8d338b0898d7e7e816f90723e99e219993c307c5",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1a0"
     }
   ]
